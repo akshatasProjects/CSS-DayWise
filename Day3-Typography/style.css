@@ -1,0 +1,26 @@
+.card{
+  background-color: bisque;
+  padding: 1em;
+  width: fit-content;
+}
+
+
+
+blockquote{
+  font-style: italic;
+  background-color: rgba(100,186,149,0.3);
+  text-shadow:2px 2px 4px rgba(0,0,0,0.3);
+  border: 0.1em solid #444;
+  width:fit-content;
+  padding: 10px;
+  height: 100%;
+  font-family: Georgia, serif;
+  line-height: 1.6;
+}
+
+cite{
+  display: block;
+  margin-top: 0.5em;
+  font-weight: bold;
+  font-style: normal;
+}
