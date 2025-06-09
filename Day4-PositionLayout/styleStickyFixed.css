@@ -1,0 +1,27 @@
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header{
+ position: fixed;
+  top: 0;
+  width: 100%;
+  background: #222;
+  color: white;
+  padding: 1em;
+}
+
+aside {
+  background-color: #ccc;
+  position: sticky;
+  top: 100px;
+  padding: 1em;
+}
+
+.layout{
+  background-color: bisque;
+  display: flex;
+  margin-top: 60px;
+}
